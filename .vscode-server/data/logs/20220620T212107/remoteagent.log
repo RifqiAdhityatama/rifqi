@@ -1,0 +1,15 @@
+[2022-06-20 21:21:07.951] [remoteagent] [info] Extension host agent started.
+[2022-06-20 21:21:08.149] [remoteagent] [info] [127.0.0.1][4e683471][ManagementConnection] New connection established.
+[2022-06-20 21:21:08.826] [remoteagent] [info] [127.0.0.1][431cf838][ExtensionHostConnection] New connection established.
+[2022-06-20 21:21:08.875] [remoteagent] [info] [127.0.0.1][431cf838][ExtensionHostConnection] <1168> Launched Extension Host Process.
+[2022-06-20 22:04:46.956] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-20 22:44:01.835] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-06-20 23:10:57.776] [remoteagent] [info] Getting Manifest... ritwickdey.liveserver
+[2022-06-20 23:10:57.861] [remoteagent] [info] Installing extension: ritwickdey.liveserver
+[2022-06-20 23:10:58.905] [remoteagent] [info] Downloaded extension: ritwickdey.liveserver /home/rifqi/.vscode-server/data/CachedExtensionVSIXs/ritwickdey.liveserver-5.7.5
+[2022-06-20 23:11:01.252] [remoteagent] [info] Extracted extension to /home/rifqi/.vscode-server/extensions/.fc071b49-fbc4-4f79-b7c0-1ec823963ce8: ritwickdey.liveserver
+[2022-06-20 23:11:01.264] [remoteagent] [info] Renamed to /home/rifqi/.vscode-server/extensions/ritwickdey.liveserver-5.7.5
+[2022-06-20 23:11:01.267] [remoteagent] [info] Extracting completed. ritwickdey.liveserver
+[2022-06-20 23:11:01.269] [remoteagent] [info] Extension installed successfully: ritwickdey.liveserver
+[2022-06-20 23:30:15.094] [remoteagent] [info] [127.0.0.1][4e683471][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-06-20 23:30:15.249] [remoteagent] [info] [127.0.0.1][431cf838][ExtensionHostConnection] <1168> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,27 @@
+[2022-06-21 14:33:56.680] [exthost] [info] Extension host with pid 205 started
+[2022-06-21 14:33:56.694] [exthost] [info] Lock '/home/rifqi/.vscode-server/data/User/workspaceStorage/2cc597069e6dc4ff50ce6688ec84a1d8/vscode.lock': Lock acquired.
+[2022-06-21 14:33:56.755] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-21 14:33:56.770] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-21 14:33:56.780] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-21 14:33:56.831] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-21 14:33:56.975] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-21 14:33:57.071] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-21 14:33:57.089] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-21 14:33:57.093] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-21 14:33:57.279] [exthost] [info] Eager extensions activated
+[2022-06-21 14:33:57.426] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3029
+[2022-06-21 14:33:58.942] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-21 14:33:58.949] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-21 14:33:59.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-21 14:35:02.758] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3031
+[2022-06-21 14:35:07.816] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3031
+[2022-06-21 14:35:12.874] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3031
+[2022-06-21 14:35:17.932] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3031
+[2022-06-21 14:35:23.029] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3031
+[2022-06-21 14:35:28.094] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3031
+[2022-06-21 14:35:33.182] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3031
+[2022-06-21 14:35:38.245] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3031
+[2022-06-21 14:35:52.696] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 3031
+[2022-06-21 14:35:53.579] [exthost] [info] Extension host terminating: received terminate message from renderer
+[2022-06-21 14:35:53.580] [exthost] [info] Lock '/home/rifqi/.vscode-server/data/User/workspaceStorage/2cc597069e6dc4ff50ce6688ec84a1d8/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-06-21 14:35:53.600] [exthost] [info] Extension host with pid 205 exiting with code 0
