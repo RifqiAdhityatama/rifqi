@@ -1,0 +1,21 @@
+h1{
+  margin-top: 50px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.input-form{
+  border: 1px solid black;
+  padding: 30px;
+  width:80%;
+  border-radius: 10px;
+  margin: auto;
+}
+
+.back {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: black;
+  margin-top: 100px;
+}

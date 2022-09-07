@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "username": "Adam",
+        "address": "Aceh",
+        "password": "NAD123"
+    },
+    {
+        "id": 2,
+        "username": "Budi",
+        "address": "Medan",
+        "password": "Sumut123"
+    },
+    {
+        "id": 3,
+        "username": "Charlie",
+        "address": "Palembang",
+        "password": "Sumsel123"
+    },
+    {
+        "id": 4,
+        "username": "Dian",
+        "address": "Padang",
+        "password": "Sumbar123"
+    },
+    {
+        "id": 5,
+        "username": "Elsa",
+        "address": "Bengkulu",
+        "password": "Bengkulu123"
+    },
+    {
+        "id": 6,
+        "username": "Fanny",
+        "address": "Pekanbaru",
+        "password": "Riau123"
+    }
+]
